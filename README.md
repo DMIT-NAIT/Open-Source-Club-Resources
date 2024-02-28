@@ -22,3 +22,4 @@ Below is a list of resources, please make a PR so that you add your own!
 Please add your name as a PR!
 
 - [Daniel Mouris (founding member)](https://github.com/dgmouris)
+- [Nina Claire Saberon](https://github.com/naenaens)
