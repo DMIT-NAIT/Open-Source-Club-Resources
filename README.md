@@ -13,3 +13,5 @@ Below is a list of resources, please make a PR so that you add your own!
 
 - [Hacktoberfest Resources and Participation](https://hacktoberfest.com/participation/)
    - This is a great resource to get started on open source.
+- [Up for grabs](https://up-for-grabs.net/#/)
+  - A place where you can see projects that are looking for contributors that might interest you.
