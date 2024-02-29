@@ -24,3 +24,4 @@ Please add your name as a PR!
 - [Daniel Mouris (founding member)](https://github.com/dgmouris)
 - [Micah Dyck](https://github.com/mdyck23)
 - [Keifer Erikson](https://github.com/keifererikson)
+- [Dwayne Aquan](https://github.com/daquantt)
